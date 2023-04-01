@@ -1,0 +1,5 @@
+// create
+dotnet new web --name
+
+//run
+dotnet run
